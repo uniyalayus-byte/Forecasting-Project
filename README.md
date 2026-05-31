@@ -1,5 +1,7 @@
 # Forecasting Spare Parts Demand Using Machine Learning
 
+Open Notebook on NB Viewer : https://nbviewer.org/github/uniyalayus-byte/Forecasting-Project/blob/main/Notebook/Final%20Client%20Project.ipynb
+
 ## Project Overview
 
 This project focuses on forecasting spare parts demand using historical service and inventory data. The objective is to build a predictive analytics solution that helps organizations optimize inventory management, reduce stock shortages, and improve operational efficiency.
